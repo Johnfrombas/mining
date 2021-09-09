@@ -12,8 +12,11 @@ Today there is a large list of cryptocurrency names, the well-known bitcoin is o
 The topic of cryptocurrencies is very interesting for detailed consideration, but it is fraught with many nuances - fortunately, there are now many viewing platforms on the network where newcomers are helped to choose hardware and an operating strategy for quickly achieving goals, and material enrichment, of course.
 
 <i>How to connect to Wooly CFX mining pool?</i>
+
 Use one of address (auto geotargeting feature):
+
 pool.woolypooly.com:3094 if you want to mine PPLNS (in shared pool)
+
 pool.woolypooly.com:3095 if you want to mine SOLO
 
 Be aware that CFX (Conflux) is mined on its own original Octopus algo. CFX is especially good for Nvidia GTX 16 and RTX 20/30 series. Worthless to mine it with an old GPU.
