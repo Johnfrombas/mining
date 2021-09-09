@@ -10,3 +10,13 @@ There are a great many people who want to mine and receive a block, thus creatin
 Today there is a large list of cryptocurrency names, the well-known bitcoin is of course relevant, but fresh solutions are also being released, for example, virtual Conflux - a profitable development with improved profitability indicators. On the site of the mining pool, you can receive a payment in Conflux, if required by the client of the system.
 
 The topic of cryptocurrencies is very interesting for detailed consideration, but it is fraught with many nuances - fortunately, there are now many viewing platforms on the network where newcomers are helped to choose hardware and an operating strategy for quickly achieving goals, and material enrichment, of course.
+
+<i>How to connect to Wooly CFX mining pool?</i>
+Use one of address (auto geotargeting feature):
+pool.woolypooly.com:3094 if you want to mine PPLNS (in shared pool)
+pool.woolypooly.com:3095 if you want to mine SOLO
+
+Be aware that CFX (Conflux) is mined on its own original Octopus algo. CFX is especially good for Nvidia GTX 16 and RTX 20/30 series. Worthless to mine it with an old GPU.
+This is an example of CFX Mining Rig based on RTX GPU:
+
+<img src="https://i.imgur.com/5PxRNE1.jpg" alt="CFX Mining Rig">
