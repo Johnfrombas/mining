@@ -1,12 +1,64 @@
-<b>Mining pool Conflux</b>
+"cfx": {
+                "H1": [
+                    {
+                        "Title": "Conflux (CFX) Mining Pool",
+                        "Content": "",
+                        "H2": [
+                            {
+                                "Title": "Conflux Mining",
+                                "Content": "Conflux is mined on its own original Octopus algo. CFX is especially good for Nvidia GTX 16 and RTX 20/30 series. Worthless to mine it with an old GPU.",
+                                "H3": [
+                                    {
+                                        "Title": "Best Mining Software (Miners)",
+                                        "Content": "<a class=\"xlink\" href=\"https://trex-miner.com/#download\">T-rex</a> (for Nvidia)<br><a class=\"xlink\" href=\"https://github.com/NebuTech/NBMiner/releases\">Nbminer</a> (for Nvidia)",
+                                    },
+                                    {
+                                        "Title": "CFX Hardware Hashrate Chart",
+                                        "Content": "<div class=\"tbl-wrapper\"><div class=\"tbl1\">Nvidia:<br>GTX 1660 SUPER 6 GB - 30 MH/S<br>GTX 1660 TI 6 GB - 30 MH/S<br>RTX 2060 6 GB - 37 MH/S<br>RTX 2060 SUPER 8 GB - 42 MH/S<br>RTX 2070 8 GB - 47 MH/S<br>RTX 2070 SUPER 8 GB - 52 MH/S<br>RTX 2080 8 GB - 52 MH/S<br>RTX 2080 SUPER 8 GB - 57 MHS<br>RTX 2080 TI 11 GB - 75 MH/S<br>RTX 3060 12 GB - 45-47 MH/S<br>RTX 3060ti 8 GB - 54 MH/S<br>RTX 3070 8 GB - 54 MH/S<br>RTX 3080 10 GB - 79-83 MH/S<br>RTX 3090 24 GB - 93 MH/S</div>",
+                                    }
+                                ]
+                            },
+                            {
+                                "Title": "Payouts",
+                                "Content": "CFX Payments are made automatically after the min. payout threshold is reached. Payments do not depend on time, there can be as many payments as you like.",
+                                "H3": [
+                                    {
+                                        "Title": "Where to sell Conflux?",
+                                        "Content": "<a class=\"xlink\" href=\"https://www.coinex.com/register?refer_code=t9cqd\">Coinex.com</a> - without KYC (no verification)<br><a class=\"xlink\" href=\"https://www.mxcio.co/auth/signup?inviteCode=155uZ\">MXC.com</a> - without KYC (no verification)",
+                                    }
+                                ]
+                            },
+                            {
+                                "Title": "Pool Method Rewards",
+                                "Content": "Conflux Mining Pool (ticker - CFX) offers both PPLNS and SOLO method rewards. We have the modified version of PPLNS, pls read FAQ section for more information.",
+                                "H3": [
 
-As you know, cryptocurrency is a fairly significant coin in our realities, it costs more than a dollar and is quite stable - that is why mining well-known virtual banknotes has become a particularly popular hobby, such an activity can also be considered as a source of passive income. In order to mine as much crypto as possible, the network user should familiarize himself with the top sites with a pool - <a href="https://woolypooly.com/en/coin/cfx">CFX mining</a> has become an advanced development in this area.
+                                ],
+                            },
+                            {
+                                "Title": "CFX Pool Fees",
+                                "Content": "Our mining fee is the lowest on market - 0.9% and deducts from the block rewards. And you don't pay for transactions.",
+                                "H3": [
 
-What is a <a href="https://woolypooly.com/">mining pool</a>? Initially, every crypto owner who does not buy currency, but actually multiplies it, must have the appropriate equipment for such tasks, namely powerful video cards. Sometimes there is not enough capacity, and then a mining pool is used to extract coins - a single server that provides its own working capacities, uniting the efforts of a whole group of participants.
-The task of the miners participating in the pool was to search for a block - as soon as a certain condition is met, the site issues a reward, which is distributed among those participating in the event. Such a service has truly become a godsend for the owners of one or another cryptocurrency, but it also has a negative impact - you can find many fraudulent sites, and on legal ones, the commission percentage is mandatory.
+                                ]
+                            },
+                            {
+                                "Title": "Pool Ping",
+                                "Content": "We have dedicated servers worldwide - USA, Europe, Asia and Australia. In general average ping on CFX mining pool is not more than 100 ms.",
+                                "H3": [
 
-There are a great many people who want to mine and receive a block, thus creating fierce competition - that is why miners operating in a solo format need support, it is difficult for them to achieve effective results alone, and they are adjacent to a mining pool with a well-known name.
+                                ]
+                            },
+                            {
+                                "Title": "Shares Diff",
+                                "Content": "On our pool diff is set automatically specific for your rig. Thanks to our Vardiff feature.",
+                                "H3": [
 
-Today there is a large list of cryptocurrency names, the well-known bitcoin is of course relevant, but fresh solutions are also being released, for example, virtual Conflux - a profitable development with improved profitability indicators. On the site of the mining pool, you can receive a payment in Conflux, if required by the client of the system.
-
-The topic of cryptocurrencies is very interesting for detailed consideration, but it is fraught with many nuances - fortunately, there are now many viewing platforms on the network where newcomers are helped to choose hardware and an operating strategy for quickly achieving goals, and material enrichment, of course.
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "Title": "Mining Pool Conflux. Mine CFX with Low Fees",
+                "Description": "Best mining Pool Conflux (CFX). Top profitable coin for RTX 16, 20 and 30 series. PPLNS and SOLO pools. 0.9% Fee. Dedicated servers with low ping. Vardiff Feature."
+            },
