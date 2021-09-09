@@ -1,0 +1,2 @@
+# mining
+Short Mining Overview
